@@ -1,0 +1,21 @@
+{
+  "name": "win11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Charan Raj T C <charanraj.tc@gmail.com",
+  "engines": {
+    "node": ">=10",
+    "pnpm": ">=3"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
