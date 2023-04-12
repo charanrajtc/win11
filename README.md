@@ -3,6 +3,8 @@ Challenge to code objects validator with complex rules.
 ## Demo
 
 
+[![Demo-Win11](https://asciinema.org/a/XrNRsHcn5mD6YClPu82pb82lX.png)](https://asciinema.org/a/XrNRsHcn5mD6YClPu82pb82lX)
+
 ## Install PNPM Package Manger
 
 ```sh
